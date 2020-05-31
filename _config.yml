@@ -1,6 +1,6 @@
 title: XeLaTeX ji bo Kurdî
 description: Kurdish XeLaTeX Users Group 
-baseurl: "/Kurmanji/" # the subpath of your site, e.g. /blog
+baseurl: "/Kurmanji" # the subpath of your site, e.g. /blog
 url: "https://kurdishxelatex.github.io"  # https://kurdishxelatex.github.io the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
