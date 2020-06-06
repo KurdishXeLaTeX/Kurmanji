@@ -81,11 +81,11 @@ Hûn dikarin belgeyên sade li ser cûreyên XeLaTeX bi zaravayên û nivîsarê
 
 ## Di derbarê projeyê de
 
-Armanca me ya sereke di vê projeyê de çêkirina naverok bi Kurdî ji bo civakên zanistî yên kurdî ye. Hûn dikarin biçin malperên me bi [Soranî](https://kurdishxelatex.github.io/Sorani) and [Kurmancî](https://kurdishxelatex.github.io/Kurmanji). Dikarin **mijar û pirs**ên xwe li [https://github.com/KurdishXeLaTeX/Kurmanji/issues](https://github.com/KurdishXeLaTeX/Kurmanji/issues){:target="_blank"} binivîsin.
+Armanca me ya sereke di vê projeyê de çêkirina naverok bi Kurdî ji bo civakên zanistî yên kurdî ye. Hûn dikarin biçin malperên me bi [Soranî](https://kurdishxelatex.github.io/Sorani) and [Kurmancî](https://kurdishxelatex.github.io/Kurmanji). Dikarin **mijar û pirs**ên xwe li [https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup](https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup){:target="_blank"} binivîsin.
 
 ### Beşdarî
 
- Hûn dikarin ji hêla afirandina naverokê jî beşdarî vê komê bibin. 
+Hûn dikarin ji hêla afirandina naverokê jî beşdarî vê komê bibin. Biçin [https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup](https://groups.google.com/forum/#!forum/kurdishxelatexusersgroup){:target="_blank"}.
 
 <!-- Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing). -->
 
