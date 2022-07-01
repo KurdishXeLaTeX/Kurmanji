@@ -77,6 +77,18 @@ Hûn dikarin belgeyên sade li ser cûreyên XeLaTeX bi zaravayên û nivîsarê
 - Kurmancî bi rênivîsa Latînî: [XeLaTeX ji bo nivîsandina Kurdî]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Latin.pdf){:target="_blank"}
 - Kurmancî bi rênivîsa Erebî: [XeLaTeX ژ بۆ نڤیساندنا کوردی]({{site.url}}/assets/Kurdish_XeLaTeX_Kurmanji_Arabic.pdf){:target="_blank"}
 
+### Nûçeyên xweş! ☺️🎉
+**Hetwan Xalîd**, xwendekarê fîzîkê yê zanîngeha Koyê ya Kurdistanê, pirtûkek li ser LaTeX bi kurdî (Soranî - Erebî) amade kiriye. Dem û dilxwaziya wî ji bo civakên zanistî yên kurd gelek bi nirx û sûdmend e. Bijî, Hetwan!
+
+[Li vir pirtûka ku hûn dikarin belaş dakêşin heye!](https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf){:target="_blank"}.
+
+<a href="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/KurdishXeLaTeX/kurdishxelatex.github.io/master/assets/Learn_Latex_Kurdish-Hatwan_Khalid-V01-2022_cover.png" 
+       width="400" 
+       height="500"
+       alt= "Hatwan Khalid Learn LaTeX Kurdish book cover"/>
+</a>
+
 ---
 
 ## Di derbarê projeyê de
@@ -99,3 +111,14 @@ Hûn dikarin ji hêla afirandina naverokê jî beşdarî vê komê bibin. Biçin
 {% endfor %}
 </ul> -->
 
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('sinaahmadi', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
